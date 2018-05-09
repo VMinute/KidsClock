@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For KidsClockSettings
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setKidsClockSettings				KEYWORD2
+saveKidsClockSettings			KEYWORD2
+loadKidsClockSettings			KEYWORD2
+getSSID		                  KEYWORD2
+getWIFIKey		              KEYWORD2
+getMainICALurl	            KEYWORD2
+getHolidaysICALurl			    KEYWORD2
+getCertificate              KEYWORD2
+getTZ                       KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SSID_SIZE	                  LITERAL1
+PASS_SIZE	                  LITERAL1
+MAIN_ICAL_URL_SIZE	        LITERAL1
+HOLIDAYS_ICAL_URL_SIZE      LITERAL1
+TZ_SIZE                     LITERAL1
